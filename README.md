@@ -1,4 +1,5 @@
 # Stochastic-Oscillator
+The Stochastic Oscillator has two lines, the %K and %D. The %D line is more important to produce better trading signals.
 # Prerequisites
 * Python 3.6
 * Libraries (pandas, numpy, matplotlib)
