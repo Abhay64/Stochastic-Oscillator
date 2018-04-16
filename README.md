@@ -5,7 +5,7 @@ The Stochastic Oscillator has two lines, the %K and %D. The %D line is more impo
 * Libraries (pandas, numpy, matplotlib)
 # What is Stochastic Oscillator
  The stochastic oscillator is one of the most recognized momentum indicators in technical analysis. The indicator works on the premise that prices should be closing near the highs of a trading range during upswings and toward the lower end of a trading range during downswings.
-# How it Work
+# How it Works
  The stochastic oscillator is plotted within a range of zero and 100. Readings above 80 are considered overbought while readings below 20 are considered oversold. The oscillator has two lines, the %K and %D, where the former measures momentum and the latter measures the moving average of the former. The %D line is more important of the two indicators and tends to produce better trading signals.
 # Mathematical Description
 Stochastic Oscillator indicator has two series, both being calculated with the help of other indicators (EMA or SMA). Also it has 3 types: Fast Stochastic Oscillator, Slow Stochastic Oscillator and Full Stochastic Oscillator.
